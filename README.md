@@ -9,6 +9,6 @@ The fast and best one Snapchat Username Checker !
 - [X] Threaded
 - [X] Auto Proxies-Scrape
 - [X] Proxies
-- [X] Auto Proxies-Scrape
+- [X] Rotating Proxies
 - [X] Random XSRF Token From My Own Snapchat-Account-Gen List!
 - [ ] Random UserAgents 
