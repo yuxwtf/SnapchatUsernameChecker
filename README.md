@@ -10,5 +10,5 @@ The fast and best one Snapchat Username Checker !
 - [X] Auto Proxies-Scrape
 - [X] Proxies
 - [X] Auto Proxies-Scrape
-- [X] Random XSRF Token From YuxSnapchat Account Gen List!
+- [X] Random XSRF Token From My Own Snapchat-Account-Gen List!
 - [ ] Random UserAgents 
