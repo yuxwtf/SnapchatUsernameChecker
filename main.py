@@ -4,7 +4,6 @@ import string
 import requests
 import os
 import threading
-import ascii2text
 from colorama import Fore, init
 import random
 
